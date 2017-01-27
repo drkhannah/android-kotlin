@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":OMGAndroid" external.linked.project.path="$MODULE_DIR$/../../../OMGAndroid" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="android-kotlin" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="GEN_FOLDER_RELATIVE_PATH_APT" value="/../../../android-kotlin/gen" />
+        <option name="GEN_FOLDER_RELATIVE_PATH_AIDL" value="/../../../android-kotlin/gen" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/../../../android-kotlin/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/../../../android-kotlin/res" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/../../../android-kotlin/assets" />
+        <option name="LIBS_FOLDER_RELATIVE_PATH" value="/../../../android-kotlin/libs" />
+        <option name="PROGUARD_LOGS_FOLDER_RELATIVE_PATH" value="/../../../android-kotlin/proguard_logs" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/../../../OMGAndroid/build/classes/main" />
+    <output-test url="file://$MODULE_DIR$/../../../OMGAndroid/build/classes/test" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../android-kotlin">
+      <excludeFolder url="file://$MODULE_DIR$/../../../OMGAndroid/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../OMGAndroid/build" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 23 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

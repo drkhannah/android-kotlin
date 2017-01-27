@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/dhannah/Downloads/android-kotlin/OMGAndroid/build/intermediates/res/merged/debug/drawable-hdpi/img_books_loading.png",
+        "source": "/Users/dhannah/Downloads/android-kotlin/OMGAndroid/src/main/res/drawable-hdpi/img_books_loading.png"
+    },
+    {
+        "merged": "/Users/dhannah/Downloads/android-kotlin/OMGAndroid/build/intermediates/res/merged/debug/drawable-hdpi/ic_books.png",
+        "source": "/Users/dhannah/Downloads/android-kotlin/OMGAndroid/src/main/res/drawable-hdpi/ic_books.png"
+    },
+    {
+        "merged": "/Users/dhannah/Downloads/android-kotlin/OMGAndroid/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/dhannah/Downloads/android-kotlin/OMGAndroid/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/dhannah/Downloads/android-kotlin/OMGAndroid/build/intermediates/res/merged/debug/drawable-hdpi/img_books_large.png",
+        "source": "/Users/dhannah/Downloads/android-kotlin/OMGAndroid/src/main/res/drawable-hdpi/img_books_large.png"
+    }
+]

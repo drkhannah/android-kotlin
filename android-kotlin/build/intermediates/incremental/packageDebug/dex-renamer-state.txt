@@ -1,0 +1,7 @@
+#Thu Jan 26 20:28:16 EST 2017
+base.0=/Users/dhannah/Downloads/android-kotlin/OMGAndroid/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_625763a45455a418fae56a1e47d9ce755be1798d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/dhannah/Downloads/android-kotlin/OMGAndroid/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_00c9bac1d92b6130b4fbe5c71cb253f8c2588cdc/classes.dex
+base.1=/Users/dhannah/Downloads/android-kotlin/OMGAndroid/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_00c9bac1d92b6130b4fbe5c71cb253f8c2588cdc
+file.0=/Users/dhannah/Downloads/android-kotlin/OMGAndroid/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_625763a45455a418fae56a1e47d9ce755be1798d/classes.dex

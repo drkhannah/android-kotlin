@@ -1,0 +1,36 @@
+buildscript {
+  ext.kotlin_version = '1.0.1-2'
+  repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.2.3'
+      classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+    }
+}
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+
+repositories {
+    mavenCentral()
+}
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.2"
+
+    defaultConfig {
+        minSdkVersion 14
+        targetSdkVersion 23
+    }
+  sourceSets {
+    main.java.srcDirs += 'src/main/kotlin'
+  }
+}
+
+dependencies {
+	compile 'com.android.support:appcompat-v7:23.2.0'
+  compile 'com.loopj.android:android-async-http:1.4.4'
+  compile 'com.squareup.picasso:picasso:2.1.1'
+  compile "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
+}

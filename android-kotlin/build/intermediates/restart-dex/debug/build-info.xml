@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xxxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="1872982278419910"
+    token="-307365320286400121"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="1963" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="427" />
+    <task
+        name="verifier"
+        duration="70" />
+
+    <artifact
+        location="/Users/dhannah/Downloads/android-kotlin/OMGAndroid/build/outputs/apk/OMGAndroid-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="1872982278419910"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/dhannah/Downloads/android-kotlin/OMGAndroid/build/outputs/apk/OMGAndroid-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
